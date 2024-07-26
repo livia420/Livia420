@@ -5,7 +5,7 @@ estudanteLivia420/README.md
 Meu nome é Livia Pais Braga
 
 
--  Estou estudando na *Alura*
+-  Estou estudando na Alura
 -  Também me desenvolvendo na linguagem *JavaScript*
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos deenvolvidos
 
