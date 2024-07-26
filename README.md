@@ -3,7 +3,7 @@ estudanteLivia420/README.md
 
 ⚡SEJA BEM VINDO AO MEU PERFIL!⚡
 
-👤 Meu nome é Livia Pais Braga
+👤 Olá, me chamo **Livia Pais Braga**
 
 
 - ✔︎ Estou estudando na Alura
